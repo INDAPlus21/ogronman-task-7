@@ -1,1 +1,3 @@
 # ogronman-task-7
+
+Det är töntigt att använda malloc(), om något går fel är det användarens fel...
